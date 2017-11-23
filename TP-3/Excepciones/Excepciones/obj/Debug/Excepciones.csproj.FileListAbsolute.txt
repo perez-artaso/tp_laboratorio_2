@@ -1,0 +1,11 @@
+C:\Users\Nacho\Desktop\TP3\Excepciones\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Nacho\Desktop\TP3\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Nacho\Desktop\TP3\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\TP3\Excepciones\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Nacho\Desktop\TP3\Excepciones\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Nacho\Desktop\TP3\TP-3\Excepciones\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Nacho\Desktop\TP3\TP-3\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Nacho\Desktop\TP3\TP-3\Excepciones\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\TP3\TP-3\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\TP3\TP-3\Excepciones\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Nacho\Desktop\TP3\TP-3\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

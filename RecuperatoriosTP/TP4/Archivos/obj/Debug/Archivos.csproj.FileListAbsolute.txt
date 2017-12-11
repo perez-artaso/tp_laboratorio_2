@@ -22,3 +22,9 @@ C:\Users\Nacho\Desktop\TP3\TP4\Archivos\obj\Debug\Archivos.csprojResolveAssembly
 C:\Users\Nacho\Desktop\TP3\TP4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
 C:\Users\Nacho\Desktop\TP3\TP4\Archivos\obj\Debug\Archivos.dll
 C:\Users\Nacho\Desktop\TP3\TP4\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Archivos\bin\Debug\Archivos.dll
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Archivos\obj\Debug\Archivos.dll
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Archivos\obj\Debug\Archivos.pdb

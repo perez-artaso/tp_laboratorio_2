@@ -98,7 +98,7 @@ namespace Navegador
         private void btnIr_Click(object sender, EventArgs e)
         {
             //Si la dirección no contiene el protocolo, se agrega al principio de la URL.
-            if(!(txtUrl.Text.StartsWith ("https://")) && !(txtUrl.Text.StartsWith("http//:")))
+            if(!(txtUrl.Text.StartsWith ("https://")) && !(txtUrl.Text.StartsWith("http://")))
             {
                 string aux = txtUrl.Text;
                 txtUrl.Text = "http://" + aux;

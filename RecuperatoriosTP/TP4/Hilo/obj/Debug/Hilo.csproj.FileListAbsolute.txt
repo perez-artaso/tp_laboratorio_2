@@ -20,3 +20,9 @@ C:\Users\Nacho\Desktop\TP3\TP4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReferenc
 C:\Users\Nacho\Desktop\TP3\TP4\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
 C:\Users\Nacho\Desktop\TP3\TP4\Hilo\obj\Debug\Hilo.dll
 C:\Users\Nacho\Desktop\TP3\TP4\Hilo\obj\Debug\Hilo.pdb
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Hilo\bin\Debug\Hilo.dll
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Hilo\obj\Debug\Hilo.dll
+C:\Users\Nacho\Desktop\Git - Repository\RecuperatoriosTP\TP4\Hilo\obj\Debug\Hilo.pdb
